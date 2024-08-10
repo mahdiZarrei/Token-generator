@@ -2,7 +2,7 @@
 
 ![Token Generator  image](./pic/token%20generator.jpg)
 
-An ERC-20 token is a digital asset on the Ethereum blockchain.\ It's a standard type of Ethereum token that can be traded and used in applications.\ They're like "smart" digital coins that can have extra features.\ With this Dapp, you can manage your ERC20 token.
+An ERC-20 token is a digital asset on the Ethereum blockchain. It's a standard type of Ethereum token that can be traded and used in applications. They're like "smart" digital coins that can have extra features. With this Dapp, you can manage your ERC20 token.
 In this project, you can create your own token without typing a code and just by clicking a few clicks.\
 you can track token you made with this Dapp.\
 you can manage your tokens in this project.
